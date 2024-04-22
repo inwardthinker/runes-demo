@@ -114,7 +114,7 @@ export default function AppBar(){
                     fontWeight:"bold"
                 }}
             >
-                Xverse Wallet
+                Degenie
             </Typography>
 
             <Dialog
